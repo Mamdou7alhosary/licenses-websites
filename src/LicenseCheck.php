@@ -2,7 +2,7 @@
 
 
 
-namespace Vendor\LicenseProtection;
+namespace Mamdou7alhosary\LicenseProtection;
 
 use Closure;
 use Illuminate\Http\Request;
