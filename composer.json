@@ -1,0 +1,15 @@
+{
+    "name": "vendor/license-protection",
+    "description": "Middleware لحماية الترخيص",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\LicenseProtection\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mamdouh",
+            "email": "mamdou7alhosary@gmail.com"
+        }
+    ]
+}
