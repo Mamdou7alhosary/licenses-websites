@@ -11,5 +11,11 @@
             "name": "mamdouh",
             "email": "mamdou7alhosary@gmail.com"
         }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Mamdou7alhosary/licenses-websites"
+        }
     ]
 }
