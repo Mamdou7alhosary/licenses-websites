@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Vendor\\LicenseProtection\\' => array($baseDir . '/src'),
+    'Mamdou7alhosary\\LicenseProtection\\' => array($baseDir . '/src'),
 );
