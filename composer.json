@@ -1,21 +1,9 @@
 {
-    "name": "vendor/license-protection",
+    "name": "mamdou7alhosary/license-protection",
     "description": "Middleware لحماية الترخيص",
     "autoload": {
         "psr-4": {
-            "Vendor\\LicenseProtection\\": "src/"
+            "Mamdou7alhosary\\LicenseProtection\\": "src/"
         }
-    },
-    "authors": [
-        {
-            "name": "mamdouh",
-            "email": "mamdou7alhosary@gmail.com"
-        }
-    ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/Mamdou7alhosary/licenses-websites"
-        }
-    ]
+    }
 }
